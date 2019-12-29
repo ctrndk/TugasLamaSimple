@@ -296,9 +296,9 @@ $Run = new Database();
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="social-share">
-                        <a class="facebook" href="https://fb.me/kingsbee"><i class="fa fa-facebook"></i></a>
-                        <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                        <a class="instagram" href="#"><i class="fa fa-instagram"></i></a>
+                        <a class="facebook" href="https://fb.me/ctrndk"><i class="fa fa-facebook"></i></a>
+                        <a class="twitter" href="https://twitter.com/ctrndk"><i class="fa fa-twitter"></i></a>
+                        <a class="instagram" href="https://instagram.com/ctrndk"><i class="fa fa-instagram"></i></a>
                     </div>
                 </div>
 
